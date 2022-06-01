@@ -1,0 +1,4 @@
+cmd:
+  info:
+    diskUsage:
+      defaultDirectory: "/Users/kbalaraman/Projects"
